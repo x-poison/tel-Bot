@@ -1,0 +1,11 @@
+{
+  "name": "telegram-bot",
+  "version": "1.0.0",
+  "description": "This is my first bot in node.js for telegram group only",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abdulrahman",
+  "license": "MIT"
+}
